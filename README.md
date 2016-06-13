@@ -1,1 +1,1 @@
-"# elegant-rake.github.io" 
+# elegant-rake.github.io
