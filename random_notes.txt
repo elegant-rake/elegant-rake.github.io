@@ -1,1 +1,4 @@
 git config --global alias.up '!git remote update -p; git merge --ff-only @{u}'
+
+
+git log --graph --oneline --decorate --date-order --color --boundary @{u}..
